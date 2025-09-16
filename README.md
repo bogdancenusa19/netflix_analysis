@@ -63,4 +63,4 @@ The analysis was performed in **Python** using **pandas, matplotlib**, and follo
 ## 👤 Author
 - **Bogdan Cenușa**  
   📍 Alba Iulia, Romania  
-  🔗 [LinkedIn](https://www.linkedin.com/in/bogdan-cenusa/)  
+  🔗 [LinkedIn](https://www.linkedin.com/in/bogdancenusa19/)  
