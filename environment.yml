@@ -1,0 +1,15 @@
+name: netflix-da
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - ipykernel
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - duckdb
+  - pip
+  - pip:
+      - pyarrow
