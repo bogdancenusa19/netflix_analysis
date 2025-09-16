@@ -47,7 +47,7 @@ The analysis was performed in **Python** using **pandas, matplotlib**, and follo
 ### 2. Top 10 Genres
 ![Top Genres](charts/top_10_movie_genres.png)  
 
-- Action, Drama and Comedy dominate Netflix’s catalog.  
+- Drama and Comedy dominate Netflix’s catalog.  
 
 ---
 
